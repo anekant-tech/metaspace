@@ -1,16 +1,18 @@
 import Navbar from './components/Navbar';
-import './App.css';
+
 import Shop from './components/Shop';
 
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar/>
-      <div className="my-5 text-center">
+      <div className=" my-5">
+       
         <Shop/>
         </div>
         </div>
+        
         
      
       );
