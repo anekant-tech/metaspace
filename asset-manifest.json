@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redux-app/static/css/main.e6c13ad2.css",
+    "main.js": "/redux-app/static/js/main.d535010f.js",
+    "static/js/787.6f7329a7.chunk.js": "/redux-app/static/js/787.6f7329a7.chunk.js",
+    "static/media/img2.jpg": "/redux-app/static/media/img2.9e7bfde25dfac86eec6d.jpg",
+    "index.html": "/redux-app/index.html",
+    "main.e6c13ad2.css.map": "/redux-app/static/css/main.e6c13ad2.css.map",
+    "main.d535010f.js.map": "/redux-app/static/js/main.d535010f.js.map",
+    "787.6f7329a7.chunk.js.map": "/redux-app/static/js/787.6f7329a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d535010f.js"
+  ]
+}
